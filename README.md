@@ -1,1 +1,0 @@
-Wraps text in || to abuse discords spoiler tags and make a really annoying message
